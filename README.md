@@ -1,4 +1,4 @@
-# WSQ-NICF Codes
+# WSQ-NICF
 The Singapore Workforce Skills Qualifications (WSQ) is a national credential system that trains, develops, assesses and certifies skills and competencies for the workforce.
 
 The National Infocomm Competency Framework (NICF) is part of the WSQ system. It was developed as a joint effort between SkillsFuture Singapore (SSG), Infocomm Media Development Authority (IMDA) and strategic stakeholders in the Information and Communication Technologies (ICT) industry. 
