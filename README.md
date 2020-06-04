@@ -1,4 +1,4 @@
-# WSQ-NICF Written Assessments
+# WSQ-NICF Written Assessments (May 2020)
 A collection of codes written for the written assessments in my WSQ-NICF courses
 
 NICF - Python Fundamental Course for Beginners (15 and 16 May 2020)
